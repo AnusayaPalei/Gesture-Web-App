@@ -1,0 +1,33 @@
+body
+{
+  color:black;
+  background: #b9dce3;;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #captured_image
+{
+  border: 2px dashed grey;
+  width: 350px;
+  height: 300px; 
+}
+#emotion_name 
+{
+  color: green;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-family: 'Beau Rivage', cursive;
+font-size:60px;
+}
+
